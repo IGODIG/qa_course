@@ -1,1 +1,1 @@
- 
+it remote add origin https://github.com/IGODIG/qa_course.git 
